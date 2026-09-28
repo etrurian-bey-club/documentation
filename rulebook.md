@@ -84,48 +84,111 @@ Lo stadio è composto principalmente da tre parti:
 * _Launch Area_ (o zone di lancio): l’apertura circolare nella cupola
 * _Body_ (o Corpo): la zona su cui i bey vengono lanciati ed il gioco si svolge
 
-> [!TODO]
+<img width="480" src="https://github.com/user-attachments/assets/6aedc379-d379-40ee-a518-1c09aed578f8" />
 
-Zone
+### Zone
+
 L'area interna dello stadio (o corpo) è suddivisa in zone specifiche che determinano l'assegnazione dei punteggi:
-Battle Zone: area di gioco centrale e principale dello stadio.
-Over Zones: Tasche laterali più piccole, situate ai lati della rotaia.
-Xtreme Zone: Fessura centrale più ampia, situata al termine della rotaia.
 
-Tornei
-Tipi e regolamentazioni specifiche
-Il nostro club non vuole imporre una visione unica su come si gioca, né sul livello di competizione associato al singolo evento. Pertanto, non vi è una imposizione sul tipo di torneo, sui premi, sul calcolo del punteggio e così via.
-Di conseguenza, il giocatore potrà divertirsi con tornei standard, così come tornei in altri formati. In modo simile, potrà trovarsi a gareggiare in un torneo che si esaurisce nella giornata dello svolgimento, o prendere parte a leghe che possono coprire più settimane o mesi nel corso dell’anno.
-Sarà cura dell’organizzatore specificare il tipo di torneo ed eventuali variazioni al regolamento di massima qui fornito dal club. Per ogni disputa o indecisione, si rimanderà sempre a questo documento, ovvero alla sua versione sussidiaria se necessario.
-Vittorie
-Ogni torneo si compone di battaglie multiple fra due o più bladers che concorrono a formare una classifica in un sistema svizzero. Questa classifica fornirà i partecipanti per una serie di scontri diretti in quella che nel prosieguo sarà indicata come top, con lo scopo di eleggere un vincitore e formare una classifica finale.
-Ogni battaglia sarà vinta al raggiungimento di 5 (cinque) punti, salvo diverse indicazioni. Qualora il giocatore o la squadra raggiunga un numero di punti superiore a 5 con l’ultimo scontro, i punti in eccesso verranno semplicemente ignorati.
-Partita
-La singola partita si considera iniziata quando bladers e giudice si presentano all’arena. A nessuno è permesso abbandonare la stessa senza l’autorizzazione esplicita del giudice di gara.
-I bladers devono avere con sé tutto il materiale necessario, dal deck ai lanciatori. Con l’ausilio dell’arbitro, verranno decise le posizioni che i bladers andranno ad occupare inizialmente sull’arena. Il come questo venga deciso è lasciato libero (dado, sasso-carta-forbice, etc).
-Ad ogni blader verrà quindi lasciato del tempo per decidere l’ordine del proprio deck ed apportare le ultime modifiche ai bey, pur senza modificarne i componenti. Ad esempio, sarà possibile cambiare l’orientamento di un ratchet, ma non sarà possibile cambiare il ratchet stesso.
-La fase successiva sarà il controllo del deck stesso da parte del giudice, sia per garantire l’ordine di lancio che per rilevare eventuali infrazioni.
-Nota: al giudice è sempre data facoltà di smontare bey, lanciatori e attrezzatura in genere, al fine di appurare provenienza e correttezza. Il giudice può, ma non è obbligato a, ricomporre la stessa. Il blader è sempre l’ultimo a dover effettuare un controllo e la gara non verrà mai dichiarata invalida in caso di errore nel montaggio da parte del giudice qualora il blader non se ne sia accorto.
-Battaglia
-Ogni partita è composta da una o più battaglie.
-Ad inizio battaglia, ogni blader deve mostrare al proprio avversario il blade, quindi posizionarlo sul lanciatore. Ogni blader potrà invitare l’avversario a mostrare nuovamente il proprio blade e potrà aggiustare (previa comunicazione all’avversario e al giudice) le componenti del blade (come sopra, sarà ad esempio possibile cambiare l’orientamento di un ratchet in questa fase). In caso di aggiustamenti, seguirà una nuova fase di presentazione del bey all’avversario.
+* **Battle Zone**: area di gioco centrale e principale dello stadio
+* **Over Zones**: Tasche laterali più piccole, situate ai lati della rotaia
+* **Xtreme Zone**: Fessura centrale più ampia, situata al termine della rotaia
+
+<img width="480" src="https://github.com/user-attachments/assets/8a91d18f-08e8-4fce-98c3-2783f684c46e" />
+
+## Tornei
+
+### Tipi e regolamentazioni specifiche
+
+Il nostro club non vuole imporre una visione unica su come si gioca, né sul livello di competizione associato al singolo
+evento. Pertanto, non vi è una imposizione sul tipo di torneo, sui premi, sul calcolo del punteggio e così via.<br/>
+Di conseguenza, il giocatore potrà divertirsi con tornei standard, così come tornei in altri formati. In modo simile, potrà
+trovarsi a gareggiare in un torneo che si esaurisce nella giornata dello svolgimento, o prendere parte a leghe che possono
+coprire più settimane o mesi nel corso dell’anno.<br/>
+Sarà cura dell’organizzatore specificare il tipo di torneo ed eventuali variazioni rispetto al regolamento di massima qui
+fornito. Per ogni disputa o indecisione, si rimanderà sempre a questo documento, ovvero alla sua versione sussidiaria se necessario.
+
+### Vittorie
+
+Ogni torneo si compone di battaglie multiple fra due o più bladers che concorrono a formare una classifica in un sistema svizzero.<br/>
+Questa classifica fornirà i partecipanti per una serie di scontri diretti in quella che nel prosieguo sarà indicata come _top_,
+con lo scopo di eleggere un vincitore e formare una classifica finale.
+
+Ogni battaglia sarà vinta al raggiungimento di 5 (cinque) punti, salvo diverse indicazioni.<br/>
+Qualora il giocatore o la squadra raggiunga un numero di punti superiore a 5 con l’ultimo scontro, i punti in eccesso verranno
+semplicemente ignorati.
+
+### Partita
+
+La singola partita si considera iniziata quando bladers e giudice si presentano all’arena. A nessuno è permesso abbandonare
+la stessa senza l’autorizzazione esplicita del giudice di gara.<br/>
+I bladers devono avere con sé tutto il materiale necessario, dal deck ai lanciatori. Con l’ausilio dell’arbitro, verranno decise
+le posizioni che i bladers andranno ad occupare inizialmente sull’arena. Il come questo venga deciso è lasciato libero
+(dado, sasso-carta-forbice, etc).
+
+Ad ogni blader verrà lasciato del tempo per decidere l’ordine del proprio deck ed apportare le ultime modifiche ai bey,
+pur senza cambiarne i componenti. Ad esempio, sarà possibile modificare l’orientamento di un ratchet, ma non sarà possibile
+cambiare il ratchet stesso.<br/>
+La fase successiva sarà il controllo del deck stesso da parte del giudice, sia per garantire l’ordine di lancio che per
+rilevare eventuali infrazioni.
+
+> [!NOTE]
+> Al giudice è sempre data facoltà di smontare bey, lanciatori e attrezzatura in genere, al fine di appurare provenienza e
+> correttezza. Il giudice può, ma non è obbligato a, ricomporre lo stesso.<br/>
+> Il blader è sempre l’ultimo a dover effettuare un controllo e la gara non verrà mai dichiarata invalida in caso di errore
+> nel montaggio da parte del giudice qualora il blader non se ne sia accorto.
+
+### Battaglia
+
+Ogni partita è composta da una o più battaglie.<br/>
+Ad inizio battaglia, ogni blader deve mostrare al proprio avversario il blade, quindi posizionarlo sul lanciatore. Ogni blader
+potrà invitare l’avversario a mostrare nuovamente il proprio blade e potrà aggiustare (previa comunicazione all’avversario e
+al giudice) le componenti del blade (come sopra, sarà ad esempio possibile cambiare l’orientamento di un ratchet in questa
+fase). In caso di aggiustamenti, seguirà una nuova fase di presentazione del bey all’avversario.
+
 Una volta pronti, il giudice offrirà un invito a prendere posizione, come ad esempio:
-Bladers in posizione
+
+> Bladers in posizione
+
 Quindi, proseguirà con un conteggio sempre uguale per ogni partita e battaglia, ovvero:
-Tre, due, uno, pronti, LANCIO
-L’enfasi sulla parola lancio sta ad indicare che i blader dovranno necessariamente lanciare il proprio blade fra la L e la O.
+
+> Tre, due, uno, pronti, **lancio**
+
+L’enfasi sulla parola _lancio_ sta ad indicare che i blader dovranno necessariamente lanciare il proprio blade fra la _L_
+e la _O_.
+
 La posizione di lancio di ogni giocatore deve rispettare le aree indicate in figura:
 
-Ogni giocatore può posizionarsi dove crede all’interno della propria area di lancio, a patto che non sia di impedimento al proprio avversario o infici la capacità di giudizio dell’arbitro. In questo caso, sarà il giudice stesso a chiedere che venga assunta una diversa posizione.
+<img width="480" src="https://github.com/user-attachments/assets/ac69ddc6-1efa-4e2e-874a-0333d5b1ee75" />
 
-In riferimento all’arena, una volta posizionato il bey sul lanciatore, questo deve essere immediatamente sopra o all’interno dell’area di lancio. Inoltre, parte del bey deve trovarsi sopra la linea di demarcazione della zona aperta della cupola, ma non oltre i 5 cm di distanza da essa. Non vi sono limitazioni sulla possibile inclinazione del lanciatore.
-Per quanto riguarda la zona di lancio, il singolo giocatore può occupare la zona che preferisce, a patto che questo non interferisca col gioco dell’avversario (e viceversa).
-Ad esempio, le seguenti immagini riportano posizioni che sono da considerarsi valide:
+Ogni giocatore può posizionarsi dove crede all’interno della propria area di lancio, a patto che non sia di impedimento al
+proprio avversario o infici la capacità di giudizio dell’arbitro. In questo caso, sarà il giudice stesso a chiedere che venga
+assunta una diversa posizione.
+
+In riferimento all’arena, una volta posizionato il bey sul lanciatore, questo deve essere immediatamente sopra o all’interno
+dell’area di lancio. Inoltre, parte del bey deve trovarsi sopra la linea di demarcazione della zona aperta della cupola, ma
+non oltre i 5cm di distanza da essa. Non vi sono limitazioni sulla possibile inclinazione del lanciatore.<br/>
+Per quanto riguarda la zona di lancio, il singolo giocatore può occupare la sezione che preferisce, a patto che questo non
+interferisca col gioco dell’avversario (e viceversa). Ad esempio, le seguenti immagini riportano posizioni che sono da
+considerarsi valide:
+
+<img width="480" src="https://github.com/user-attachments/assets/ff14fd9a-019e-4bbe-9444-8a563d4bc962" />
+<img width="480" src="https://github.com/user-attachments/assets/14d10103-d49a-4e10-941a-199e40d889d5" />
 
 Lo stesso non si può dire delle posizioni di cui sotto:
 
-In altri termini, sebbene si possa immaginare l’arena come logicamente divisa in due parti, i giocatori non sono strettamente obbligati ad occupare solo ed esclusivamente la propria metà.
-Piuttosto, fintanto che le posizioni reciproche non interferiscono col gioco, lo sforamento nella zona altrui è consentito. Un giocatore può in ogni caso portare la cosa all’evidenza del giudice se ritiene che la posizione dell’avversario gli impedisca di posizionarsi correttamente nella propria area di gioco.
+<img width="480" src="https://github.com/user-attachments/assets/bf95b4ac-b1eb-4e35-944a-bb61626d8bf0" />
+<img width="480" src="https://github.com/user-attachments/assets/bf95b4ac-b1eb-4e35-944a-bb61626d8bf0" />
+<img width="987" height="728" alt="range-ng-2" src="https://github.com/user-attachments/assets/c52d7fba-4988-4ee0-b930-47841c4ae4e8" />
+
+In altri termini, sebbene si possa immaginare l’arena come logicamente divisa in due parti, i giocatori non sono strettamente
+obbligati ad occupare solo ed esclusivamente la propria metà.<br/>
+Piuttosto, fintanto che le posizioni reciproche non interferiscono col gioco, lo sforamento nella zona altrui è consentito.
+Un giocatore può in ogni caso portare la cosa all’evidenza del giudice se ritiene che la posizione dell’avversario gli impedisca
+di posizionarsi correttamente nella propria area di gioco.
+
+[!TODO]
+
 Lancio
 Il lancio è il gesto che dà inizio alla battaglia vera e propria.
 Un lancio si ritiene valido quando un bey attraversa l’area di lancio e tocca lo stadio prima di scontrarsi col bey avversario. Sarà compito del giudice di gara constatare la validità del lancio per il prosieguo del gioco.
