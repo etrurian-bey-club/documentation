@@ -13,6 +13,12 @@
   * [Lanciatori e accessori](#lanciatori-e-accessori)
   * [Stadio](#stadio)
     * [Parti dello stadio](#parti-dello-stadio)
+    * [Zone](#zone)
+  * [Tornei](#tornei)
+    * [Tipi e regolamentazioni specifiche](#tipi-e-regolamentazioni-specifiche)
+    * [Vittorie](#vittorie)
+    * [Partita](#partita)
+    * [Battaglia](#battaglia)
 
 # Disclaimer
 
