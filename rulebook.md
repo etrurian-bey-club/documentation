@@ -185,7 +185,6 @@ Lo stesso non si può dire delle posizioni di cui sotto:
 
 <img width="480" src="https://github.com/user-attachments/assets/bf95b4ac-b1eb-4e35-944a-bb61626d8bf0" />
 <img width="480" src="https://github.com/user-attachments/assets/bf95b4ac-b1eb-4e35-944a-bb61626d8bf0" />
-<img width="987" height="728" alt="range-ng-2" src="https://github.com/user-attachments/assets/c52d7fba-4988-4ee0-b930-47841c4ae4e8" />
 
 In altri termini, sebbene si possa immaginare l’arena come logicamente divisa in due parti, i giocatori non sono strettamente
 obbligati ad occupare solo ed esclusivamente la propria metà.<br/>
