@@ -11,17 +11,17 @@
   * [Beyblade](#beyblade)
     * [Parti bannate](#parti-bannate)
   * [Lanciatori e accessori](#lanciatori-e-accessori)
-  * [Stadio](#stadio)
-    * [Parti dello stadio](#parti-dello-stadio)
-    * [Zone](#zone)
-  * [Tornei](#tornei)
-    * [Tipi e regolamentazioni specifiche](#tipi-e-regolamentazioni-specifiche)
-    * [Vittorie](#vittorie)
-    * [Partita](#partita)
-    * [Battaglia](#battaglia)
-    * [Lancio](#lancio)
-    * [Termine di una battaglia](#termine-di-una-battaglia)
-    * [Risultato della battaglia](#risultato-della-battaglia)
+* [Stadio](#stadio)
+  * [Parti dello stadio](#parti-dello-stadio)
+  * [Zone](#zone)
+* [Tornei](#tornei)
+  * [Tipi e regolamentazioni specifiche](#tipi-e-regolamentazioni-specifiche)
+  * [Vittorie](#vittorie)
+  * [Partita](#partita)
+  * [Battaglia](#battaglia)
+  * [Lancio](#lancio)
+  * [Termine di una battaglia](#termine-di-una-battaglia)
+  * [Risultato della battaglia](#risultato-della-battaglia)
 * [Clausola di rinvio e norme generali](#clausola-di-rinvio-e-norme-generali)
 
 # Disclaimer
@@ -67,7 +67,7 @@ In alcun caso è ammessa la modifica dei componenti interni al fine di cambiarne
 manutenzione in caso di rotture. L’uso di accessori quali grip o battle pass è ammesso a patto che siano anch’essi prodotti
 ufficiali, se non diversamente indicato dal regolamento.
 
-## Stadio
+# Stadio
 
 Lo stadio di riferimento per il club è il cosiddetto _Xtreme Stadium_ di Takara Tomy.<br/>
 Questo significa che, salvo indicazioni contrarie, un qualsiasi torneo sarà giocato in questo stadio. Tuttavia, non viene
@@ -86,7 +86,7 @@ disponibilità.<br/>
 > Si invitano i giocatori a portare con sé e rendere disponibile la propria attrezzatura se e quando possibile, al fine
 > di agevolare lo svolgimento dei tornei.
 
-### Parti dello stadio
+## Parti dello stadio
 
 Lo stadio è composto principalmente da tre parti:
 
@@ -96,7 +96,7 @@ Lo stadio è composto principalmente da tre parti:
 
 <img width="480" src="https://github.com/user-attachments/assets/6aedc379-d379-40ee-a518-1c09aed578f8" />
 
-### Zone
+## Zone
 
 L'area interna dello stadio (o corpo) è suddivisa in zone specifiche che determinano l'assegnazione dei punteggi:
 
@@ -106,9 +106,9 @@ L'area interna dello stadio (o corpo) è suddivisa in zone specifiche che determ
 
 <img width="480" src="https://github.com/user-attachments/assets/8a91d18f-08e8-4fce-98c3-2783f684c46e" />
 
-## Tornei
+# Tornei
 
-### Tipi e regolamentazioni specifiche
+## Tipi e regolamentazioni specifiche
 
 Il nostro club non vuole imporre una visione unica su come si gioca, né sul livello di competizione associato al singolo
 evento. Pertanto, non vi è una imposizione sul tipo di torneo, sui premi, sul calcolo del punteggio e così via.<br/>
@@ -118,7 +118,7 @@ coprire più settimane o mesi nel corso dell’anno.<br/>
 Sarà cura dell’organizzatore specificare il tipo di torneo ed eventuali variazioni rispetto al regolamento di massima qui
 fornito. Per ogni disputa o indecisione, si rimanderà sempre a questo documento, ovvero alla sua versione sussidiaria se necessario.
 
-### Vittorie
+## Vittorie
 
 Ogni torneo si compone di battaglie multiple fra due o più bladers che concorrono a formare una classifica in un sistema svizzero.<br/>
 Questa classifica fornirà i partecipanti per una serie di scontri diretti in quella che nel prosieguo sarà indicata come _top_,
@@ -128,7 +128,7 @@ Ogni battaglia sarà vinta al raggiungimento di 5 (cinque) punti, salvo diverse 
 Qualora il giocatore o la squadra raggiunga un numero di punti superiore a 5 con l’ultimo scontro, i punti in eccesso verranno
 semplicemente ignorati.
 
-### Partita
+## Partita
 
 La singola partita si considera iniziata quando bladers e giudice si presentano all’arena. A nessuno è permesso abbandonare
 la stessa senza l’autorizzazione esplicita del giudice di gara.<br/>
@@ -148,7 +148,7 @@ rilevare eventuali infrazioni.
 > Il blader è sempre l’ultimo a dover effettuare un controllo e la gara non verrà mai dichiarata invalida in caso di errore
 > nel montaggio da parte del giudice qualora il blader non se ne sia accorto.
 
-### Battaglia
+## Battaglia
 
 Ogni partita è composta da una o più battaglie.<br/>
 Ad inizio battaglia, ogni blader deve mostrare al proprio avversario il blade, quindi posizionarlo sul lanciatore. Ogni blader
@@ -196,7 +196,7 @@ Piuttosto, fintanto che le posizioni reciproche non interferiscono col gioco, lo
 Un giocatore può in ogni caso portare la cosa all’evidenza del giudice se ritiene che la posizione dell’avversario gli impedisca
 di posizionarsi correttamente nella propria area di gioco.
 
-### Lancio
+## Lancio
 
 Il lancio è il gesto che dà inizio alla battaglia vera e propria.
 
@@ -264,7 +264,7 @@ In tutti questi casi, il lancio viene ripetuto senza ulteriori indicazioni.
 > se accettarla a seconda dei casi.<br/>
 > Si rimanda a quanto già detto in precedenza per ogni altro dettaglio sull’argomento.
 
-### Termine di una battaglia
+## Termine di una battaglia
 
 La battaglia inizia quando entrambi i bey attraversano l’area di lancio e toccano il corpo dello stadio, a patto che
 non vi siano stati falli di alcun genere. La stessa finisce quando uno dei due bey smette di ruotare, subisce un
@@ -302,7 +302,7 @@ In ogni altro caso, si considera incapace di rientrare in gioco.
 > L’unica eccezione si ha qualora la parte superiore lasci lo stadio attraverso la zona di lancio, senza potervi
 > rientrare. In questo caso, l’evento si configura come incapacità di tornare nell’area di gioco ai fini della battaglia.
 
-### Risultato della battaglia
+## Risultato della battaglia
 
 A meno che una battaglia non venga ripetuta per le condizione di cui sopra, questa si considera terminata quando un
 bey è sconfitto. In tal caso, al giocatore il cui bey non è stato sconfitto vengono assegnati dei punti.<br/>
