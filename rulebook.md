@@ -22,6 +22,7 @@
     * [Lancio](#lancio)
     * [Termine di una battaglia](#termine-di-una-battaglia)
     * [Risultato della battaglia](#risultato-della-battaglia)
+* [Clausola di rinvio e norme generali](#clausola-di-rinvio-e-norme-generali)
 
 # Disclaimer
 
@@ -303,26 +304,53 @@ In ogni altro caso, si considera incapace di rientrare in gioco.
 
 ### Risultato della battaglia
 
-A meno che una battaglia non venga ripetuta per le condizione di cui sopra, questa si considera terminata quando un bey è sconfitto. In tal caso, al giocatore il cui bey non è stato sconfitto vengono assegnati dei punti.
+A meno che una battaglia non venga ripetuta per le condizione di cui sopra, questa si considera terminata quando un
+bey è sconfitto. In tal caso, al giocatore il cui bey non è stato sconfitto vengono assegnati dei punti.<br/>
 In particolare e almeno che non vi siano indicazioni diverse per lo specifico torneo:
-XTreme Finish, 3 punti: si ha quando il bey entra nella xtreme zone (inizio) e non riesce a tornare in gioco (fine).
-Over Finish, 2 punti: si ha quando il bey entra in una delle over zone (inizio) e non riesce a tornare in gioco (fine).
-Burst Finish, 2 punti: si ha quando il bey subisce un burst all’interno dell’area di gioco (inizio e fine).
-Spin Finish, 1 punto: si ha quando il bey smette di ruotare mentre si trova nell’area di gioco (inizio e fine).
-In tutti questi casi, si passa al bey successivo una volta assegnati i punti dovuti.
+
+* **XTreme Finish**, 3 punti: si ha quando il bey entra nella _xtreme zone_ (inizio) e non riesce a tornare in
+  gioco (fine)
+* **Over Finish**, 2 punti: si ha quando il bey entra in una delle _over zone_ (inizio) e non riesce a tornare
+  in gioco (fine)
+* **Burst Finish**, 2 punti: si ha quando il bey subisce un burst all’interno dell’area di gioco (inizio e fine)
+* **Spin Finish**, 1 punto: si ha quando il bey smette di ruotare mentre si trova nell’area di gioco (inizio e fine)
+
+In tutti questi casi, si passa al bey successivo una volta assegnati i punti dovuti.<br/>
 Esistono poi casi speciali in cui viene decretato un rilancio pur assegnando punti ad uno dei due giocatori:
-Own Finish, 1 punto: si ha quando un bey entra in una finish zone (inizio) e non riesce a tornare in gioco (fine) senza toccare in alcun caso il bey avversario.
-Leave Finish, 1 punto: si ha quando un bey lascia l’arena dalla zona di lancio (inizio) e non riesce a tornare in gioco (fine).
+
+* **Own Finish**, 1 punto: si ha quando un bey entra in una _finish zone_ (inizio) e non riesce a tornare in gioco
+  (fine) senza toccare in alcun caso il bey avversario
+* **Leave Finish**, 1 punto: si ha quando un bey lascia l’arena dalla zona di lancio (inizio) e non riesce a tornare
+  in gioco (fine).
+
 Ai fini del regolamento, si ha inoltre quanto segue:
-Un bey entra una zona quando questo è completamente all’interno della zona stessa. Similmente, lo si considera all’interno della zona fintanto che non ne esce completamente.
-Quando entrambi i giocatori subiscono una sconfitta, la prima sconfitta che ha avuto inizio è considerata valida. Ad esempio, se un bey entra nella over zone e l’altro subisce burst, la sconfitta va comunque al bey nella over zone se questo non riesce a rientrare in gioco.
-Se un bey rientra in gioco da una finish zone mantenendo la propria rotazione, la sconfitta si considera mai iniziata per quanto riguarda il punto precedente.
-Nel caso in cui un bey si sposti da una finish zone ad un’altra senza rientrare in gioco, l’evento si considera iniziato quando il bey è entrato nella prima finish zone.
-Una battaglia viene invece ripetuta senza assegnare punti in caso di errori, lanci falliti, interferenze, collisioni. Lo stesso vale per richieste di rilancio accolte, o qualora un bey lasci lo stadio da zone non precedentemente descritte (come ad esempio attraverso una paratia laterale in uno stadio con cupola meno salda). Si effettua un rilancio senza assegnazione di punti anche in caso di rotture di bey, stadio o qualsiasi strumento a supporto del lancio.
-Poiché l’ultima parola è sempre e comunque dovuta al giudice di gara, quest’ultimo può decidere di effettuare un rilancio senza assegnare punti qualora, nonostante gli sforzi, non sia in grado di determinare con assoluta certezza se e quale bey abbia subito per primo una sconfitta.
-Clausola di rinvio e norme generali
-Questo regolamento è basato sulla versione ufficiale WBO, opportunamente modificata nei termini e nelle voci essenziali per catturare le richieste della community e personalizzare i nostri tornei.
-Per qualsiasi casistica, dinamica di gioco, sanzione, disputa o dettaglio tecnico non espressamente specificato nel presente documento, si fa pieno riferimento al regolamento sopracitato. Quest'ultimo viene applicato come normativa sussidiaria del torneo, ad eccezione dei casi diversamente descritti e modificati all'interno di questo testo, che mantengono sempre la massima priorità.
 
+* Un bey entra in una zona quando questo è **completamente** all’interno della zona stessa e lo si considera
+  all’interno della zona stessa  fintanto che non ne esce **completamente**
+* Quando entrambi i giocatori subiscono una sconfitta, la prima sconfitta che ha avuto inizio è considerata valida
+  (ad esempio, se un bey entra nella over zone e l’altro subisce burst, la sconfitta va comunque al bey nella over zone
+  se questo non riesce a rientrare in gioco)
+* Se un bey rientra in gioco da una finish zone mantenendo la propria rotazione, la sconfitta si considera **mai**
+  iniziata per quanto riguarda il punto precedente
+* Nel caso in cui un bey si sposti da una finish zone ad un’altra senza rientrare in gioco, l’evento si considera
+  iniziato quando il bey è entrato nella prima finish zone
 
+Una battaglia viene invece ripetuta senza assegnare punti in caso di _errori_, _lanci falliti_, _interferenze_,
+_collisioni_. Lo stesso vale per richieste di rilancio accolte, o qualora un bey lasci lo stadio da zone non
+precedentemente descritte (come ad esempio attraverso una paratia laterale in uno stadio con cupola meno salda).<br/>
+Si effettua un rilancio senza assegnazione di punti anche in caso di rotture di bey, stadio o qualsiasi strumento a
+supporto del lancio.
 
+Poiché l’ultima parola è sempre e comunque dovuta al giudice di gara, quest’ultimo può decidere di effettuare un
+rilancio senza assegnare punti qualora, nonostante gli sforzi, non sia in grado di determinare con assoluta certezza
+se e quale bey abbia subito per primo una sconfitta.
+
+# Clausola di rinvio e norme generali
+
+Questo regolamento è basato sulla versione ufficiale [WBO](https://worldbeyblade.org/Thread-Beyblade-X-Rules),
+opportunamente modificata nei termini e nelle voci essenziali per catturare le richieste della community e
+personalizzare i nostri tornei.<br/>
+Per qualsiasi casistica, dinamica di gioco, sanzione, disputa o dettaglio tecnico non espressamente specificato nel
+presente documento, si fa pieno riferimento al regolamento sopracitato. Quest'ultimo viene applicato come normativa
+sussidiaria del torneo, ad eccezione dei casi diversamente descritti e modificati all'interno di questo testo, che
+mantengono sempre la massima priorità.
