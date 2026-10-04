@@ -19,6 +19,7 @@
     * [Vittorie](#vittorie)
     * [Partita](#partita)
     * [Battaglia](#battaglia)
+    * [Lancio](#lancio)
 
 # Disclaimer
 
@@ -192,27 +193,44 @@ Piuttosto, fintanto che le posizioni reciproche non interferiscono col gioco, lo
 Un giocatore può in ogni caso portare la cosa all’evidenza del giudice se ritiene che la posizione dell’avversario gli impedisca
 di posizionarsi correttamente nella propria area di gioco.
 
-[!TODO]
+### Lancio
 
-Lancio
 Il lancio è il gesto che dà inizio alla battaglia vera e propria.
-Un lancio si ritiene valido quando un bey attraversa l’area di lancio e tocca lo stadio prima di scontrarsi col bey avversario. Sarà compito del giudice di gara constatare la validità del lancio per il prosieguo del gioco.
-La casistica che conduce ad un rilancio si divide in: errori di lancio, interferenze, lancio fallito e collisioni in aria. Se durante il conteggio un bey cade o si muove fuori dalla propria area di lancio, viene semplicemente cominciato un nuovo conteggio.
-Ogni giocatore può chiedere uno ed un solo rilancio nel caso in cui ci sia stata un’interferenza o a seguito di malfunzionamenti del lanciatore. Accogliere o meno la richiesta è a discrezione del giudice e in nessun caso il giocatore potrà fermare il gioco se non invitato a farlo esplicitamente.
-Nel caso in cui un rilancio venga accettato come conseguenza del malfunzionamento di un lanciatore, una corda o qualsiasi altro strumento a supporto del lancio, il giocatore dovrà necessariamente cambiarlo e non potrà più utilizzarlo per il resto della partita.
-Gli errori di lancio si hanno quando il giocatore:
-Posiziona il bey fuori dall’area di lancio durante il conteggio
-Lancia al di fuori della parola lancio (ovvero prima o dopo)
-Lancia il bey direttamente fuori dallo stadio
-Lancia in modo tale che il proprio bey urti la cupola prima di entrare in gioco
-Lancia direttamente sulle paratie laterali, nelle tasche (over zone) o in xtreme (xtreme zone), senza toccare l’area di gioco dello stadio
-Urta col proprio corpo o altro oggetto lo stadio muovendolo in modo tale da influire sul gioco stesso
-Un errore di lancio porta ad una ammonizione ed un rilancio. La doppia ammonizione porta all’assegnazione di un punto all’avversario. Le ammonizioni vengono rimosse dopo ogni lancio riuscito, o quando si sommano concedendo punti all’avversario.
+
+Un lancio si ritiene valido quando un bey attraversa l’area di lancio e tocca lo stadio prima di scontrarsi col bey
+avversario. Sarà compito del giudice di gara constatare la validità del lancio per il prosieguo del gioco.<br/>
+La casistica che conduce ad un rilancio si divide in: _errori di lancio_, _interferenze_, _lancio fallito_ e
+_collisioni in aria_. Se durante il conteggio un bey cade o si muove fuori dalla propria area di lancio, viene
+semplicemente cominciato un nuovo conteggio.
+
+Ogni giocatore può chiedere **uno ed un solo** rilancio nel caso in cui ci sia stata un’interferenza o a seguito di
+malfunzionamenti del lanciatore. Accogliere o meno la richiesta è a discrezione del giudice e in nessun caso il giocatore
+potrà fermare il gioco se non invitato a farlo esplicitamente.<br/>
+Nel caso in cui un rilancio venga accettato come conseguenza del malfunzionamento di un lanciatore, una corda o qualsiasi
+altro strumento a supporto del lancio stesso, il giocatore dovrà necessariamente cambiarlo e non potrà più utilizzarlo per
+il resto della partita.
+
+Gli **errori di lancio** si hanno quando il giocatore:
+
+* Posiziona il bey fuori dall’area di lancio durante il conteggio
+* Lancia al di fuori della parola lancio (ovvero prima o dopo)
+* Lancia il bey direttamente fuori dallo stadio
+* Lancia in modo tale che il proprio bey urti la cupola prima di entrare in gioco
+* Lancia direttamente sulle paratie laterali, nelle tasche (over zone) o in xtreme (xtreme zone), senza toccare l’area
+  di gioco dello stadio
+* Urta col proprio corpo o altro oggetto lo stadio muovendolo in modo tale da influire sul gioco stesso
+
+Un errore di lancio porta ad una ammonizione ed un rilancio. La doppia ammonizione porta all’assegnazione di un punto
+all’avversario.<br/>
+Le ammonizioni vengono **sempre** rimosse dopo ogni lancio riuscito, o quando si sommano concedendo punti all’avversario.
 Nel caso in cui entrambi i giocatori effettuino errori di lancio, non vengono date ammonizioni.
-I lanci falliti si hanno quando un bey:
-Si burst-a (o divide) prima di entrare in gioco
-Tocca lo stadio avendo già perso completamente la capacità di rotazione
-Non si stacca o lascia in modo difettoso il lanciatore
+
+Un **lancio fallito** si ha quando un bey:
+
+* Si burst-a (o divide) prima di entrare in gioco
+* Tocca lo stadio avendo già perso completamente la capacità di rotazione
+* Non si stacca o lascia in modo difettoso il lanciatore
+
 In tutti questi casi, si ripete il lancio e quindi la battaglia. A discrezione del giudice di gara, il giocatore può essere invitato a cambiare lanciatore, corda o altra strumentazione. Nel caso in cui questo si rifiuti, un ulteriore lancio fallito potrà essere decretato come valido a discapito del giocatore stesso.
 Per interferenza si intendono quei casi in cui i giocatori si sono disturbati all’atto del lancio, per una qualsiasi definizione di disturbati a discrezione del giudice.
 Alcuni esempi che non intendono essere esaustivi sono:
