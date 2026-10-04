@@ -20,6 +20,8 @@
     * [Partita](#partita)
     * [Battaglia](#battaglia)
     * [Lancio](#lancio)
+    * [Termine di una battaglia](#termine-di-una-battaglia)
+    * [Risultato della battaglia](#risultato-della-battaglia)
 
 # Disclaimer
 
@@ -231,36 +233,76 @@ Un **lancio fallito** si ha quando un bey:
 * Tocca lo stadio avendo già perso completamente la capacità di rotazione
 * Non si stacca o lascia in modo difettoso il lanciatore
 
-In tutti questi casi, si ripete il lancio e quindi la battaglia. A discrezione del giudice di gara, il giocatore può essere invitato a cambiare lanciatore, corda o altra strumentazione. Nel caso in cui questo si rifiuti, un ulteriore lancio fallito potrà essere decretato come valido a discapito del giocatore stesso.
-Per interferenza si intendono quei casi in cui i giocatori si sono disturbati all’atto del lancio, per una qualsiasi definizione di disturbati a discrezione del giudice.
+In tutti questi casi, si ripete il lancio e quindi la battaglia.<br/>
+A discrezione del giudice di gara, il giocatore può essere invitato a cambiare lanciatore, corda o altra strumentazione.
+Nel caso in cui questo si rifiuti, un ulteriore lancio fallito potrà essere decretato come valido a discapito del
+giocatore stesso.
+
+Per **interferenza** si intendono quei casi in cui i giocatori si sono disturbati all’atto del lancio, per una
+qualsiasi definizione di disturbati a discrezione del giudice.<br/>
 Alcuni esempi che non intendono essere esaustivi sono:
-Un giocatore urta l’avversario all’atto del lancio con una mano, il lanciatore, il cordino o col bey stesso, influendo sulla sua capacità di lancio.
-Un giocatore cambia posizione durante il conteggio, andando ad interferire con la capacità di lancio dell’avversario.
-In questi casi, il lancio viene ripetuto. Interferenze intenzionali e ripetute, qualora rilevate dal giudice di gara, possono condurre alla squalifica dai tornei perché si configurano come grave comportamento antisportivo.
-Infine, le collisioni in aria si hanno in tutti quei casi in cui i due bey, prima ancora di toccare l’area di gioco e quindi il corpo dello stadio, si scontrano fra loro.
+
+* Un giocatore urta l’avversario all’atto del lancio con una mano, il lanciatore, il cordino o col bey stesso,
+  influendo sulla sua capacità di lancio
+* Un giocatore cambia posizione durante il conteggio, andando ad interferire con la capacità di lancio dell’avversario
+
+In questi casi, il lancio viene ripetuto. Interferenze intenzionali e ripetute, qualora rilevate dal giudice di
+gara, possono condurre alla squalifica dai tornei poiché si configurano come grave comportamento antisportivo.
+
+Infine, le **collisioni in aria** si hanno in tutti quei casi in cui i due bey, prima ancora di toccare l’area di
+gioco e quindi il corpo dello stadio, si scontrano fra loro.<br/>
 In tutti questi casi, il lancio viene ripetuto senza ulteriori indicazioni.
-Note sulle richieste di rilancio
-I giocatori possono chiedere un rilancio quando l’avversario interferisce in modo netto con la loro capacità di lancio, quando questi vengono urtati o hanno un altro tipo di impedimento durante il lancio, nel caso di malfunzionamenti del lanciatore o altra attrezzatura di supporto.
-La richiesta di rilancio deve essere immediata e tempestiva. Ovvero, deve avvenire nei secondi immediatamente successivi al lancio, possibilmente prima che i bey si scontrino per la prima volta.
-In nessun caso la richiesta di rilancio porta automaticamente al rilancio. Sarà a discrezione del giudice valutare se accettarla a seconda dei casi. Si rimanda a quanto già detto in precedenza per ogni altro dettaglio sull’argomento.
-Termine di una battaglia
-La battaglia inizia quando entrambi i bey attraversano l’area di lancio e toccano il corpo dello stadio, a patto che non vi siano stati falli di alcun genere. Finisce invece quando uno dei due bey smette di ruotare, subisce un burst o è impossibilitato dal tornare nell’area di gioco.
-In alcun caso il giocatore è autorizzato a toccare il proprio bey senza che il giudice di gara abbia decretato la fine della battaglia, anche nel caso questa sia evidente.
-Un bey subisce una sconfitta per spin finish quando cessa di ruotare nella propria direzione originale, o comincia a farlo in quella opposta.
-La rotazione è intesa a qualsiasi velocità e con tutte le parti del bey ancora connesse, indipendentemente da asse, posizione e orientamento. Anche qualora il bey fosse al di fuori dello stadio, la rotazione è considerata tale fino a prova contraria.
-Il burst avviene quando una o più parti del bey si distaccano e separano dal resto del bey. Qualora una parte di distacchi parzialmente senza separarsi completamente (ad esempio, una punta che esce dal proprio alloggiamento pur sostenendo ancora il peso del bey e permettendone la rotazione), l’evento non viene considerato un burst ai fini dell’esito della battaglia.
-L’incapacità di tornare nell’area di gioco si ha quando un bey:
-Cessa di ruotare o subisce burst fuori dall’area di gioco stessa
-Esce completamente dallo stadio attraverso la xtreme zone o over zone
-Tocca qualsiasi cosa che non sia lo stadio o il bey avversario una volta fuori dallo stadio
-Lascia l’arena attraverso la zona di lancio e, una volta uscito, tocca qualsiasi cosa che non sia lo stadio stesso o il bey avversario
-Una volta che un bey ha lasciato l’area di gioco, è ammesso il rientro a patto che il bey non abbia cessato la propria rotazione, subito burst o toccato qualsiasi cosa che non siano lo stadio o il bey avversario. In ogni altro caso, si considera incapace di rientrare in gioco.
-Nota a margine riguardante Bullet Griffon
-Questo bey si divide in due parti per come è progettato.
-Quando avviene, l’evento non è considerato alla stregua di un burst ai fini del gioco.
-Per quanto riguarda spin finish, burst e incapacità di tornare in gioco, solo la parte sottostante (ovvero quella agganciata alla punta) viene presa in considerazione una volta che il bey si è diviso.
-L’unica eccezione si ha qualora la parte superiore lasci lo stadio attraverso la zona di lancio, senza potervi rientrare. In questo caso, l’evento si configura come incapacità di tornare nell’area di gioco ai fini della battaglia.
-Risultato della battaglia
+
+> [!NOTE]
+> I giocatori possono chiedere un rilancio quando l’avversario interferisce in modo netto con la loro capacità di
+> lancio, quando questi vengono urtati o hanno un altro tipo di impedimento durante il lancio, nel caso di
+> malfunzionamenti del lanciatore o altra attrezzatura di supporto.<br/>
+> La richiesta di rilancio **deve** essere immediata e tempestiva. Ovvero, deve avvenire nei secondi immediatamente
+> successivi al lancio, possibilmente prima che i bey si scontrino per la prima volta.<br/>
+> In nessun caso la richiesta di rilancio porta automaticamente al rilancio. Sarà a discrezione del giudice valutare
+> se accettarla a seconda dei casi.<br/>
+> Si rimanda a quanto già detto in precedenza per ogni altro dettaglio sull’argomento.
+
+### Termine di una battaglia
+
+La battaglia inizia quando entrambi i bey attraversano l’area di lancio e toccano il corpo dello stadio, a patto che
+non vi siano stati falli di alcun genere. La stessa finisce quando uno dei due bey smette di ruotare, subisce un
+burst o è impossibilitato dal tornare nell’area di gioco.<br/>
+In alcun caso il giocatore è autorizzato a toccare il proprio bey senza che il giudice di gara abbia decretato la
+fine della battaglia, anche nel caso questa sia evidente.
+
+Un bey subisce una sconfitta per **spin finish** quando cessa di ruotare nella propria direzione originale, ovvero
+comincia a farlo in quella opposta. La rotazione è intesa a qualsiasi velocità e con tutte le parti del bey ancora
+connesse, indipendentemente da asse, posizione e orientamento.<br/>
+Anche qualora il bey fosse al di fuori dello stadio, la rotazione è considerata tale fino a prova contraria.
+
+Il **burst** avviene quando una o più parti del bey si distaccano e separano dal resto del bey.<br/>
+Qualora una parte si distacchi parzialmente senza separarsi completamente (ad esempio, una punta che esce dal proprio
+alloggiamento pur sostenendo ancora il peso del bey e permettendone la rotazione), l’evento non viene considerato un
+burst ai fini dell’esito della battaglia.
+
+L’**incapacità di tornare nell’area di gioco** si ha quando un bey:
+
+* Cessa di ruotare o subisce burst fuori dall’area di gioco stessa
+* Esce completamente dallo stadio attraverso la xtreme zone o over zone
+* Tocca **qualsiasi** cosa che non sia lo stadio o il bey avversario una volta fuori dallo stadio
+* Lascia l’arena attraverso la zona di lancio e, una volta uscito, tocca qualsiasi cosa che non sia lo stadio stesso
+  o il bey avversario
+
+Una volta che un bey ha lasciato l’area di gioco, è ammesso il rientro a patto che il bey non abbia cessato la propria
+rotazione, subito burst o toccato qualsiasi cosa che non siano lo stadio o il bey avversario.<br/>
+In ogni altro caso, si considera incapace di rientrare in gioco.
+
+> [!NOTE]
+> Per quanto riguarda **Bullet Griffon**, questo bey si divide in due parti per come è progettato. Quando ciò avviene,
+> l’evento **non** è considerato alla stregua di un burst ai fini del gioco.<br/>
+> Per quanto riguarda spin finish, burst e incapacità di tornare in gioco, solo la parte sottostante (ovvero quella
+> agganciata alla punta) viene presa in considerazione una volta che il bey si è diviso.<br/>
+> L’unica eccezione si ha qualora la parte superiore lasci lo stadio attraverso la zona di lancio, senza potervi
+> rientrare. In questo caso, l’evento si configura come incapacità di tornare nell’area di gioco ai fini della battaglia.
+
+### Risultato della battaglia
+
 A meno che una battaglia non venga ripetuta per le condizione di cui sopra, questa si considera terminata quando un bey è sconfitto. In tal caso, al giocatore il cui bey non è stato sconfitto vengono assegnati dei punti.
 In particolare e almeno che non vi siano indicazioni diverse per lo specifico torneo:
 XTreme Finish, 3 punti: si ha quando il bey entra nella xtreme zone (inizio) e non riesce a tornare in gioco (fine).
