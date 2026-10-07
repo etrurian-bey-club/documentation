@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['specifiche_0',['Tipi e regolamentazioni specifiche',['../md_docs_2rulebook.html#autotoc_md13',1,'']]],
-  ['stadio_1',['Stadio',['../md_docs_2rulebook.html#autotoc_md9',1,'']]],
-  ['stadio_2',['Parti dello stadio',['../md_docs_2rulebook.html#autotoc_md10',1,'']]]
+  ['specifiche_0',['Tipi e regolamentazioni specifiche',['../index.html#autotoc_md13',1,'']]],
+  ['stadio_1',['Stadio',['../index.html#autotoc_md9',1,'']]],
+  ['stadio_2',['Parti dello stadio',['../index.html#autotoc_md10',1,'']]]
 ];

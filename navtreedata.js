@@ -25,32 +25,8 @@
 var NAVTREE =
 [
   [ "Etrurian Bey Club - Documentation", "index.html", [
-    [ "Etrurian Bey Club", "md__r_e_a_d_m_e.html", null ],
-    [ "Etrurian Bey Club Firenze - Regolamento", "md_docs_2rulebook.html", [
-      [ "Indice", "md_docs_2rulebook.html#autotoc_md2", null ],
-      [ "Disclaimer", "md_docs_2rulebook.html#autotoc_md3", null ],
-      [ "Terminologia", "md_docs_2rulebook.html#autotoc_md4", null ],
-      [ "Equipaggiamento", "md_docs_2rulebook.html#autotoc_md5", [
-        [ "Beyblade", "md_docs_2rulebook.html#autotoc_md6", [
-          [ "Parti bannate", "md_docs_2rulebook.html#autotoc_md7", null ]
-        ] ],
-        [ "Lanciatori e accessori", "md_docs_2rulebook.html#autotoc_md8", null ]
-      ] ],
-      [ "Stadio", "md_docs_2rulebook.html#autotoc_md9", [
-        [ "Parti dello stadio", "md_docs_2rulebook.html#autotoc_md10", null ],
-        [ "Zone", "md_docs_2rulebook.html#autotoc_md11", null ]
-      ] ],
-      [ "Tornei", "md_docs_2rulebook.html#autotoc_md12", [
-        [ "Tipi e regolamentazioni specifiche", "md_docs_2rulebook.html#autotoc_md13", null ],
-        [ "Vittorie", "md_docs_2rulebook.html#autotoc_md14", null ],
-        [ "Partita", "md_docs_2rulebook.html#autotoc_md15", null ],
-        [ "Battaglia", "md_docs_2rulebook.html#autotoc_md16", null ],
-        [ "Lancio", "md_docs_2rulebook.html#autotoc_md17", null ],
-        [ "Termine di una battaglia", "md_docs_2rulebook.html#autotoc_md18", null ],
-        [ "Risultato della battaglia", "md_docs_2rulebook.html#autotoc_md19", null ]
-      ] ],
-      [ "Clausola di rinvio e norme generali", "md_docs_2rulebook.html#autotoc_md20", null ]
-    ] ]
+    [ "Etrurian Bey Club Firenze - Regolamento", "index.html", "index" ],
+    [ "Etrurian Bey Club", "md__r_e_a_d_m_e.html", null ]
   ] ]
 ];
 
