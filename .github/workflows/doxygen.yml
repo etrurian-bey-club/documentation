@@ -1,1 +1,9 @@
+name: doxygen
 
+on: [push]
+
+jobs:
+
+  html:
+    timeout-minutes: 15
+    runs-on: ubuntu-latest
