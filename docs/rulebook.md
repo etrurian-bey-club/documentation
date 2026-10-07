@@ -4,6 +4,8 @@
 > **Noi**, **Voi** e tutti gli altri bladers siamo **Etrurian Bey Club di
 > Firenze**. Divertiamoci!
 
+@cond HTML_ONLY
+
 # Indice
 
 * [Disclaimer](#disclaimer)
@@ -24,6 +26,8 @@
   * [Termine di una battaglia](#termine-di-una-battaglia)
   * [Risultato della battaglia](#risultato-della-battaglia)
 * [Clausola di rinvio e norme generali](#clausola-di-rinvio-e-norme-generali)
+
+@endcond
 
 # Disclaimer
 
