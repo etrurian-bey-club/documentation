@@ -1,0 +1,26 @@
+var NAVTREEINDEX0 =
+{
+"index.html":[],
+"md__r_e_a_d_m_e.html":[0],
+"md_docs_2rulebook.html":[1],
+"md_docs_2rulebook.html#autotoc_md10":[1,4,0],
+"md_docs_2rulebook.html#autotoc_md11":[1,4,1],
+"md_docs_2rulebook.html#autotoc_md12":[1,5],
+"md_docs_2rulebook.html#autotoc_md13":[1,5,0],
+"md_docs_2rulebook.html#autotoc_md14":[1,5,1],
+"md_docs_2rulebook.html#autotoc_md15":[1,5,2],
+"md_docs_2rulebook.html#autotoc_md16":[1,5,3],
+"md_docs_2rulebook.html#autotoc_md17":[1,5,4],
+"md_docs_2rulebook.html#autotoc_md18":[1,5,5],
+"md_docs_2rulebook.html#autotoc_md19":[1,5,6],
+"md_docs_2rulebook.html#autotoc_md2":[1,0],
+"md_docs_2rulebook.html#autotoc_md20":[1,6],
+"md_docs_2rulebook.html#autotoc_md3":[1,1],
+"md_docs_2rulebook.html#autotoc_md4":[1,2],
+"md_docs_2rulebook.html#autotoc_md5":[1,3],
+"md_docs_2rulebook.html#autotoc_md6":[1,3,0],
+"md_docs_2rulebook.html#autotoc_md7":[1,3,0,0],
+"md_docs_2rulebook.html#autotoc_md8":[1,3,1],
+"md_docs_2rulebook.html#autotoc_md9":[1,4],
+"pages.html":[]
+};
